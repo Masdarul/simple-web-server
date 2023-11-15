@@ -1,4 +1,4 @@
-# Coming from Web Server for Chrome?
+# Coming from Web Server for Chrome?.
 
 Simple Web Server is a continuation of Web Server for Chrome, and was created because Chrome Apps are going away. It's designed to be familiar for users coming from Web Server for Chrome.
 
